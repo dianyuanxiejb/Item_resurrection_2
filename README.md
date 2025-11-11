@@ -74,7 +74,9 @@
 
 2. 运行  
    ```bash
+   cd Item_resurrection_2
    python main.py
    ```
    默认管理员账号：`admin / admin123`
+
 
