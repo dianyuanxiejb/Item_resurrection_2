@@ -1,0 +1,22 @@
+[
+  {
+    "user_id": "admin",
+    "username": "dianyuanxiejb",
+    "password": "ww266266",
+    "address": "管理员地址",
+    "phone": "13732173187",
+    "email": "dianyuanxiejb@sjtu.edu.cn",
+    "role": "admin",
+    "status": "approved"
+  },
+  {
+    "user_id": "7a3a101e-d9c9-44d0-895b-c267d090d157",
+    "username": "dianyuan",
+    "password": "123456",
+    "address": "sdff",
+    "phone": "sdfdfs",
+    "email": "sdfsdf",
+    "role": "user",
+    "status": "approved"
+  }
+]

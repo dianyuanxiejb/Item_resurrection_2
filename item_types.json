@@ -1,0 +1,27 @@
+[
+  {
+    "type_id": 1,
+    "name": "食品",
+    "attributes": [
+      "保质期",
+      "数量"
+    ]
+  },
+  {
+    "type_id": 2,
+    "name": "书籍",
+    "attributes": [
+      "作者",
+      "出版社",
+      "ISBN"
+    ]
+  },
+  {
+    "type_id": 3,
+    "name": "工具",
+    "attributes": [
+      "品牌",
+      "使用时长"
+    ]
+  }
+]
